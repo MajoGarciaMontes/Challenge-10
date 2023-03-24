@@ -59,3 +59,5 @@ Return a JSON list of temperature observations for the previous year.
 Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range.
 For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
+
+citar https://github.com/lorijta92/sql-alchemy-climate-analysis/blob/master/climate_analysis.ipynb
